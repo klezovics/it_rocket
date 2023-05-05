@@ -1,5 +1,5 @@
-import logo from "../assets/img/rocket.png";
 import React from "react";
+import logo from '../assets/img/rocket.svg';
 import Header from "../components/common/header/Header";
 import Footer from "../components/common/footer/Footer";
 
